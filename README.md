@@ -11,6 +11,7 @@ This project implements a search engine in C++ using a trie data structure to in
 # Requirements
 
 C++ compiler
+
 Standard C++ libraries
 
 # Usage
